@@ -260,6 +260,10 @@ Edge attributes:
   URL
   weight
 
+=head2 build_attributes
+
+Foo
+
 =head1 TO DO
 
 Document this code better.

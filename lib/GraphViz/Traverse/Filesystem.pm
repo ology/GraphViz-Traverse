@@ -92,6 +92,10 @@ methods.  Example:
 Traverse a file system starting at the given root path and populate
 the C<GraphViz> object with file nodes-and path-edges.
 
+=head2 edge_color
+
+Foo
+
 =head1 SEE ALSO
 
 L<GraphViz>
