@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use base qw( GraphViz );
 use Carp;
-our $VERSION = '0.02';
+our $VERSION = '0.0201_1';
 our $AUTOLOAD;
 
 sub new {
@@ -127,15 +127,13 @@ sub traverse {
 
 __END__
 
-=head1 NAME
-
-GraphViz::Traverse - Build a GraphViz object via callback traversal
-
 =head1 SYNOPSIS
 
   use GraphViz::Traverse;
 
 =head1 DESCRIPTION
+
+B<DEPRICATED>
 
 A C<GraphViz::Traverse> object represents a base class for inheriting
 by other traversal modules.
