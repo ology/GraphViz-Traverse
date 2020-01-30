@@ -1,5 +1,5 @@
 package GraphViz::Traverse;
-# ABSTRACT: Build a GraphViz object via callback traversal
+# ABSTRACT: DEPRICATED - Build a GraphViz object via callback traversal
 use strict;
 use warnings;
 use base qw( GraphViz );
