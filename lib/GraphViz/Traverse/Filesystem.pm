@@ -40,7 +40,7 @@ __END__
 
 =head1 DESCRIPTION
 
-B<DEPRICATED>
+B<DEPRECATED>
 
 A C<GraphViz::Traverse::Filesystem> object provides methods to traverse a
 file system and render it with C<GraphViz>.

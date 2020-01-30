@@ -1,5 +1,5 @@
 package GraphViz::Traverse;
-# ABSTRACT: DEPRICATED - Build a GraphViz object via callback traversal
+# ABSTRACT: DEPRECATED - Build a GraphViz object via callback traversal
 use strict;
 use warnings;
 use base qw( GraphViz );
@@ -133,7 +133,7 @@ __END__
 
 =head1 DESCRIPTION
 
-B<DEPRICATED>
+B<DEPRECATED>
 
 A C<GraphViz::Traverse> object represents a base class for inheriting
 by other traversal modules.
