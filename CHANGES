@@ -1,6 +1,6 @@
 Changes file for GraphViz::Traverse
 
-{{NEXT}}
+{{$NEXT}}
     - Depricated this module.
     - Refactored distribution to use Dist:Zilla.
 
