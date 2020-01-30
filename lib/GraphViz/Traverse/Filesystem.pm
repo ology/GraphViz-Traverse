@@ -1,5 +1,5 @@
 package GraphViz::Traverse::Filesystem;
-our $VERSION = '0.02';
+our $VERSION = '0.0201_1';
 use strict;
 use warnings;
 use Carp;
@@ -29,10 +29,6 @@ sub traverse {
 
 __END__
 
-=head1 NAME
-
-GraphViz::Traverse::Filesystem - Visualize a filesystem with GraphViz
-
 =head1 SYNOPSIS
 
   use GraphViz::Traverse::Filesystem;
@@ -43,6 +39,8 @@ GraphViz::Traverse::Filesystem - Visualize a filesystem with GraphViz
   print $g->as_debug;
 
 =head1 DESCRIPTION
+
+B<DEPRICATED>
 
 A C<GraphViz::Traverse::Filesystem> object provides methods to traverse a
 file system and render it with C<GraphViz>.
