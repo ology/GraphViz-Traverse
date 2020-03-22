@@ -1,6 +1,8 @@
 Changes file for GraphViz::Traverse
 
 {{$NEXT}}
+
+0.0201_1 2020-01-30 00:27:57
     - Depricated this module.
     - Refactored distribution to use Dist:Zilla.
 
